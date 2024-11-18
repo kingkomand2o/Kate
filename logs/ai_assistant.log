@@ -1,0 +1,4 @@
+2024-11-17 08:38:16,510 - ERROR - Failed to initialize model: Model path 'models\phi-2.Q5_K_M.gguf' doesn't exist.
+2024-11-17 08:41:16,828 - ERROR - Failed to initialize model: Model path 'models\phi-2.Q5_K_M.gguf' doesn't exist.
+2024-11-17 08:49:27,132 - ERROR - Failed to initialize model: 'dict' object has no attribute 'gpu_layers'
+2024-11-17 09:01:48,424 - ERROR - Failed to initialize model: 'dict' object has no attribute 'gpu_layers'
